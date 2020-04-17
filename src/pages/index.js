@@ -1,18 +1,14 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from 'react'
 
-import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
+import Layout from '../components/layout'
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    <h1>Welcome to my website</h1>
-    <p>This is a simple site for the gastby crash course.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
-)
+const IndexPage = () => {
+  return(
+    <Layout>
+      <h1>Hello World</h1>
+      <h2>I'm Jon Tran, a font-end developer living in a beautiful Winnipeg city, Canada</h2>
+    </Layout>
+  )
+}
 
 export default IndexPage
