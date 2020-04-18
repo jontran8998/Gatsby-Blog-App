@@ -1,5 +1,5 @@
 ---
-title: "The Greate React Bootcamp"
+title: "The React Bootcamp"
 date: "2020-04-18"
 ---
 
