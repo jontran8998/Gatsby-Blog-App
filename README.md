@@ -1,3 +1,25 @@
+## Things covered in this project:
+live project: 
+1. Creating a Gatsby Site
+2. Working with Gatsby Pages
+3. Linking Betwwen Pages 
+4. Creating shared pages components
+5. Creating Gatsby Page Layout
+6. Styling project with CSS Modules
+7. Gatsby Data with GraphQL
+8. Setting up GraphQL Playground
+9. Sourcing Content from the File System
+10. Working with Markdown Post
+11. Generating slugs for Posts
+12. Dynamically Generating Pages
+13. Rendering Post Data in Blog Template
+14. Adding Images to Posts
+15. Getting started with Contentful
+16. Rendering Contentful Posts
+17. Import React-Helomet
+18. Deploying
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
