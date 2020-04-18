@@ -2,7 +2,7 @@
 live project: 
 1. **Creating a Gatsby Site**
 2. **Working with Gatsby Pages**
-3. **Linking Betwwen Pages **
+3. **Linking Betwwen Pages**
 4. **Creating shared pages components**
 5. **Creating Gatsby Page Layout**
 6. **Styling project with CSS Modules**
